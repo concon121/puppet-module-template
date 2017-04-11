@@ -1,0 +1,13 @@
+{
+	"name": "concon121/puppet_module_template",
+	"version": "0.1.0",
+	"author": "Connor Bray",
+	"summary": "A quick puppet module template to get you started!",
+	"description": "A bare bones puppet module to start buildin on top of.",
+	"license": "MIT License",
+	"source": "https://github.com/concon121/puppet-module-template",
+	"project_page": "https://github.com/concon121/puppet-module-template/blob/master/README.md",
+	"issues_url": "https://github.com/concon121/puppet-module-template/issues",
+	"dependencies": [],
+	"data_provider": null
+}

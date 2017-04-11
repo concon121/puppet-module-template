@@ -1,0 +1,2 @@
+---
+puppet_module_template::sample_parameter: 'sample_value!'
